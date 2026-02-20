@@ -1,2 +1,1 @@
-# Título del repo
 

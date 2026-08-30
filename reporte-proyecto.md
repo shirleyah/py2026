@@ -49,7 +49,10 @@ problema con la herramienta ni con la soluci??n.
 EJEMPLO: La identificaci??n manual de genes de resistencia en varios genomas es
 lenta, propensa a errores y dif??cil de reproducir. -->
 
-[Describan aqu?? el problema.]
+Actualmente se han llevado a cabo diversos analis a nivel internacional para determinar las causas relacionadas con la deforestacion masiva.
+Sin embargo, se considera de vital importancia que la informacion derivada de estos estudios sean tratados bajo tecnicas especializadas.
+Se cree que los resuktados obtenidos hasta ahora no son suficientes para tomar una decision por lo que este estudio permitira apoyar a los estudios previos y ayudar a definir la mejor solucion.
+ 
 
 ## 3. Justificaci??n
 
@@ -80,16 +83,13 @@ de presencia y ausencia obtenida de las anotaciones. -->
 
 ### Pregunta 1
 
-**Pregunta:** sera posibl determinar el impacto del analisis en el vida diaria?  
+**Pregunta:** [Escriban la pregunta.]  
 **Evidencia necesaria:** [Datos o resultados que permitir??n responderla.]
 
 ### Pregunta 2
 
-**Pregunta:** los datos obtenidos desde la base de datos son los unicos que pueden utilizarse en el exprimento?  
+**Pregunta:** los datos obtenidos desde la base de datos son los unicos que pueden utilizarse en el exprimento?   
 **Evidencia necesaria:** [Datos o resultados que permitir??n responderla.]
-
-**Pregunta:** cada resultado obtenido debe ser validado o puede considerarse como estable?
-**Evidencia necesaria:**  
 
 ## 6. Alcance y limitaciones
 

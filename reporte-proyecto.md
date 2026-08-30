@@ -85,7 +85,7 @@ de presencia y ausencia obtenida de las anotaciones. -->
 
 ### Pregunta 2
 
-**Pregunta:** los datos obtenidos desde la base de datos son los unicos que pueden utilizarse?  
+**Pregunta:** los datos obtenidos desde la base de datos son los unicos que pueden utilizarse en el exprimento?  
 **Evidencia necesaria:** [Datos o resultados que permitir??n responderla.]
 
 **Pregunta:** cada resultado obtenido debe ser validado o puede considerarse como estable?

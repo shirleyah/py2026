@@ -52,6 +52,9 @@ lenta, propensa a errores y dif??cil de reproducir. -->
 Actualmente se han llevado a cabo diversos analis a nivel internacional para determinar las causas relacionadas con la deforestacion masiva.
 Sin embargo, se considera de vital importancia que la informacion derivada de estos estudios sean tratados bajo tecnicas especializadas.
 Se cree que los resuktados obtenidos hasta ahora no son suficientes para tomar una decision por lo que este estudio permitira apoyar a los estudios previos y ayudar a definir la mejor solucion.
+
+Se cree que este es el planteamiento definitivo, pero esta en evaluacion por parte de los integrantes del proyecto.
+
  
 
 ## 3. Justificaci??n

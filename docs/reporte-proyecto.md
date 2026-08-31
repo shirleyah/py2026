@@ -28,7 +28,7 @@ que obtenga los datos y genere tablas y visualizaciones comparativas. -->
 
 Estoy agregando una linea para el resumen desde una rama de de trabajo docs/1-resumen.
 Desde la rama puedo seguir haciendo cambios sin modificar la rama main.    
-
+Ya borraron mi rama en web pero local sigo haciendo cambios para mandar a GitHub.  
 
 
 ## 1. Contexto y antecedentes

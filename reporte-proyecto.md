@@ -54,6 +54,7 @@ Sin embargo, se considera de vital importancia que la informacion derivada de es
 Se cree que los resuktados obtenidos hasta ahora no son suficientes para tomar una decision por lo que este estudio permitira apoyar a los estudios previos y ayudar a definir la mejor solucion.
 
 Se cree que este es el planteamiento definitivo, pero esta en evaluacion por parte de los integrantes del proyecto.
+Posiblemente el planteamiento del proyecto cambie conforme avanza el desarrollo.
 
  
 

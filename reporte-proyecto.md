@@ -74,6 +74,10 @@ EJEMPLO: Desarrollar un flujo reproducible en Python para identificar y comparar
 genes de resistencia en un conjunto de genomas de E. coli. -->
 
 [Escriban aqu?? el objetivo general.]
+1. Manejar Git y GitHub  
+2. Descargar los datos de una fuente confiable  
+3. Analizar los datos  
+
 
 
 ## 5. Preguntas de investigaci??n

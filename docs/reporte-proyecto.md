@@ -26,8 +26,11 @@ EJEMPLO: Se analizar??n genomas de E. coli disponibles en NCBI para identificar
 y comparar genes de resistencia. Se desarrollar?? un flujo reproducible en Python
 que obtenga los datos y genere tablas y visualizaciones comparativas. -->
 
-[Redacten aqui el resumen.]
 Estoy agregando una linea para el resumen desde una rama de de trabajo docs/1-resumen.
+Desde la rama puedo seguir haciendo cambios sin modificar la rama main.    
+
+
+
 ## 1. Contexto y antecedentes
 
 <!-- AYUDA: Presenten la informaci??n necesaria para comprender el proyecto.

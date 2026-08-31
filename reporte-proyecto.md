@@ -15,7 +15,7 @@ Escherichia coli. -->
 | Ultima actualizacion | [dd/mm/aaaa] |
 | Repositorios | [URL] |
 | Repositorio 2 |     |
-
+| Otro dato |       |
 
 <!-- AYUDA: Mantengan actualizados el estado, la fecha y la versi??n. La versi??n
 debe coincidir con una etiqueta de Git cuando exista una entrega identificable. -->

@@ -8,12 +8,12 @@ Escherichia coli. -->
 
 | Dato | Informaci??n |
 |:--|:--|
-| Hola | [Nombre completo y correo] |
+| Hola 1| [Nombre completo y correo] |
 | Hola 2 | [Nombre completo y correo] |
 | Hola  3 | [Nombre completo y correo] |
 | Fecha de creaci??n | [dd/mm/aaaa] |
-| ??ltima actualizaci??n | [dd/mm/aaaa] |
-| Repositorio | [URL] |
+| Ultima actualizacion | [dd/mm/aaaa] |
+| Repositorios | [URL] |
 | Repositorio 2 |     |
 
 

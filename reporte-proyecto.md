@@ -8,12 +8,14 @@ Escherichia coli. -->
 
 | Dato | Informaci??n |
 |:--|:--|
-| Integrante 1 | [Nombre completo y correo] |
-| Integrante 2 | [Nombre completo y correo] |
-| Integrante 3 | [Nombre completo y correo] |
+| Hola | [Nombre completo y correo] |
+| Hola 2 | [Nombre completo y correo] |
+| Hola  3 | [Nombre completo y correo] |
 | Fecha de creaci??n | [dd/mm/aaaa] |
 | ??ltima actualizaci??n | [dd/mm/aaaa] |
 | Repositorio | [URL] |
+| Repositorio 2 |     |
+
 
 <!-- AYUDA: Mantengan actualizados el estado, la fecha y la versi??n. La versi??n
 debe coincidir con una etiqueta de Git cuando exista una entrega identificable. -->
